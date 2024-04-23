@@ -32,13 +32,13 @@ Void Chat App is a Java-based chat application that allows users to register, cr
 
 ## 🛠️ Technologies Used
 
-- **☕ Java**: Core programming language.
-- **🖥️ JavaFX**: For building the graphical user interface.
-- **🔄 RMI (Remote Method Invocation)**: For communication between the client and server.
-- **🏗️ MVC (Model-View-Controller)**: For the application's architecture.
-- **📦 Maven**: Dependency management.
-- **💾 JDBC (Java Database Connectivity)**: For connecting to the MySQL database.
-- **🗄️ MySQL**: A database management system for storing user data and messages.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+[![RMI](https://img.shields.io/badge/RMI-2ea44f?style=for-the-badge)](https://)
+[![MVC](https://img.shields.io/badge/MVC-0074FF?style=for-the-badge)](https://)
+![Maven](https://img.shields.io/badge/Maven-orange?style=for-the-badge&logo=apache)
+[![ JDBC](https://img.shields.io/badge/_JDBC-2xaf?style=for-the-badge)](https://)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
