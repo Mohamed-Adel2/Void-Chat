@@ -30,6 +30,9 @@ Void Chat App is a Java-based chat application that allows users to register, cr
 
 <br>
 
+## 📫 Database Schema
+![schema](voidchat-schema.JPG)
+
 ## 🛠️ Technologies Used
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
